@@ -35,4 +35,3 @@ fig = go.Figure(go.Indicator(
             "bar":{"color":"yellow"}}
 ))
 st.plotly_chart(fig)
-Annotations
