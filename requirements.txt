@@ -29,7 +29,7 @@ pandas==1.5.1
 Pillow==9.3.0
 plotly==5.11.0
 protobuf==3.20.3
-pyarrow==11.0.0.dev99
+pyarrow==10.0.1
 pydeck==0.8.0
 Pygments==2.13.0
 Pympler==1.0.1
@@ -45,7 +45,7 @@ seaborn==0.12.1
 semver==2.13.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.14.1
+streamlit==1.15.1
 tenacity==8.1.0
 textblob==0.17.1
 toml==0.10.2
